@@ -1,0 +1,10 @@
+[project]
+name = "cookidoo-auth-helium"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10.6"
+dependencies = [
+    "dotenv>=0.9.9",
+    "helium>=5.1.1",
+]
